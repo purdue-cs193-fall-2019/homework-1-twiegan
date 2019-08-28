@@ -15,11 +15,9 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-- Bulleted
-- List
+- This is Thomas Wiegand's GitHub website
 
-1. Numbered
-2. List
+1. Wow this is incredible
 
 **Bold** and _Italic_ and `Code` text
 
